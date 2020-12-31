@@ -1,0 +1,6 @@
+hi world! hi linux! how are you
+hi, hello
+
+s/hi/hi 
+
+/home/harmony/usb.o:usb.c usb.h
